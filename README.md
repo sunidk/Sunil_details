@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Sunil from Udupi, Karnataka. I have completed my B.E in Mechanical Engineering in 2019. 
+
 <!--
 **sunidk/sunidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
